@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kangrui%20Yuan)](https://git.io/streak-stats)
 
+![Metrics](https://metrics.lecoq.io/KangruiYuan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Etc%2FGMT-8)
+
 <!--
 **KangruiYuan/KangruiYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
